@@ -1,0 +1,17 @@
+04-25 16:09:59.890  20120-20120/? I/Tracer﹕ On Create Executed
+04-25 16:09:59.960  20120-20120/? I/Tracer﹕ On Start Executed
+04-25 16:09:59.960  20120-20120/? I/Tracer﹕ On Resume Executed
+04-25 16:10:36.360  20120-20120/? I/Tracer﹕ On Pause Executed
+04-25 16:10:36.410  20120-20120/? I/Tracer﹕ On Create Executed
+04-25 16:10:36.430  20120-20120/? I/Tracer﹕ On Start Executed
+04-25 16:10:36.430  20120-20120/? I/Tracer﹕ On Resume Executed
+04-25 16:10:36.940  20120-20120/? I/Tracer﹕ On Stop Executed
+04-25 16:10:42.690  20120-20120/? I/Tracer﹕ On Pause Executed
+04-25 16:10:42.720  20120-20120/? I/Tracer﹕ On Restart Executed
+04-25 16:10:42.720  20120-20120/? I/Tracer﹕ On Start Executed
+04-25 16:10:42.720  20120-20120/? I/Tracer﹕ On Resume Executed
+04-25 16:10:43.080  20120-20120/? I/Tracer﹕ On Stop Executed
+04-25 16:10:43.080  20120-20120/? I/Tracer﹕ On Destroy Executed
+04-25 16:10:46.110  20120-20120/? I/Tracer﹕ On Pause Executed
+04-25 16:10:47.250  20120-20120/? I/Tracer﹕ On Stop Executed
+04-25 16:10:47.250  20120-20120/? I/Tracer﹕ On Destroy Executed
